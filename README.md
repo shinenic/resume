@@ -8,7 +8,7 @@
 
 ### 前端 Side Project
 
-* 名字筆畫工具
+* **名字筆畫工具**
 
   [Demo](https://shinenic.github.io/strokes-operation-react/)  
 
@@ -26,7 +26,7 @@
   
 
 
-* 卓著歌曲快速搜尋
+* **卓著歌曲快速搜尋**
 
   [Demo](https://shinenic.github.io/zhuozhe-quick-search/)  
 
@@ -49,7 +49,7 @@
 
 ### 在校作品
 
-* 神奇寶貝遊戲 (遊戲製作課程專題成果)  
+* **神奇寶貝遊戲 (遊戲製作課程專題成果)**  
 
   [Demo影片](https://youtu.be/V7TiLIM9UM0)
 
@@ -57,7 +57,7 @@
 
 
 
-* 北科租物網 (畢業專題) 
+* **北科租物網 (畢業專題)** 
 
    [期末專題報告PDF](https://github.com/shinenic/resume/blob/master/pdf/105-CSIE-S025%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf)
 
