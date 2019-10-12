@@ -39,6 +39,8 @@ PDF link
    * Styled-Component
    
    * RWD
+   
+   * Node.js, MongoDB, Express
 
      
 
