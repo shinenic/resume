@@ -41,7 +41,7 @@
   * 使用 react-virtualized 完成長列表優化
   * Redux
   * MiddleWare (API串接)
-  * React-Router
+  * React-Router 實作 SPA
   * Styled-Component
   * RWD
   * Node.js, MongoDB, Express
