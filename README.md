@@ -22,6 +22,7 @@
   * Redux
   * Styled-Component
   * RWD
+  * 實作 Pagination 完成長列表優化
 
   
 
@@ -37,7 +38,7 @@
   使用技術：
 
   * React
-  * 長列表效能優化
+  * 使用 react-virtualized 完成長列表優化
   * Redux
   * MiddleWare (API串接)
   * React-Router
