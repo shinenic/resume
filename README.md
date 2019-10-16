@@ -18,10 +18,8 @@
 
   使用技術：
 
-  * React
-  * Redux
-  * Styled-Component
-  * RWD
+  * React, Redux 建置前端頁面
+  * 以 Styled-Component 整理 css 配置，完成 RWD效果
   * 實作 Pagination 完成長列表優化
 
   
@@ -37,14 +35,12 @@
 
   使用技術：
 
-  * React
+  * React, Redux 建置前端頁面
   * 使用 react-virtualized 完成長列表優化
-  * Redux
-  * MiddleWare (API串接)
+  * MiddleWare 配合Redux 串接資料，並搭配 css 動畫作為回饋
   * React-Router 實作 SPA
-  * Styled-Component
-  * RWD
-  * Node.js, MongoDB, Express
+  * Styled-Component 整理 css 配置，完成 RWD 效果
+  * Node.js, MongoDB, Express 完成後端 API 設計
 
 
 
