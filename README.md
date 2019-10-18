@@ -18,15 +18,10 @@
 
   使用技術：
 
-  * React
-  
-  * Redux
-  
-* Styled-Component
-  
-  * RWD
-  
-    
+  * React, Redux 建置前端頁面
+  * 以 Styled-Component 整理 css 配置，完成 RWD效果
+  * 實作 Pagination 完成長列表優化
+
   
 
 
