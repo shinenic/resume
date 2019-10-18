@@ -1,6 +1,6 @@
 # 履歷
 
-[PDF Link]( [https://github.com/shinenic/resume/blob/master/pdf/%E9%AD%8F%E6%81%A9%E5%BB%B7%20-%20%E5%B1%A5%E6%AD%B7.pdf](https://github.com/shinenic/resume/blob/master/pdf/魏恩廷 - 履歷.pdf) )
+[PDF Link](https://github.com/shinenic/resume/blob/master/pdf/%E9%AD%8F%E6%81%A9%E5%BB%B7%20-%20%E5%B1%A5%E6%AD%B7.pdf)
 
 
 
