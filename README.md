@@ -19,32 +19,59 @@
   使用技術：
 
   * React
+  
   * Redux
-  * Styled-Component
+  
+* Styled-Component
+  
   * RWD
-
+  
+    
   
 
 
-* **卓著歌曲快速搜尋**
+* 卓著歌曲快速搜尋
 
-  [Demo](https://shinenic.github.io/zhuozhe-quick-search/)  
+    [Demo](https://shinenic.github.io/zhuozhe-quick-search/)  
 
-  [code & features](https://github.com/shinenic/zhuozhe-quick-search)
+    [code & features](https://github.com/shinenic/zhuozhe-quick-search)
 
-  主要針對手機使用者設計，能快速搜尋卓著所有歌曲相關資訊的網站應用程式
+    主要針對手機使用者設計，能快速搜尋卓著所有歌曲相關資訊的網站應用程式
+
+    使用技術：
+
+    * React
+    * 長列表效能優化
+    * Redux
+    * MiddleWare (API串接)
+    * React-Router
+    * Styled-Component
+    * RWD
+    * Node.js, MongoDB, Express
+
+    
+
+* 代辦事項清單
+
+  [Demo](https://shinenic.github.io/todo-list-for-test/ )  
+
+  [code & features & test result]( https://github.com/shinenic/todo-list-for-test )
+
+  主要為練習 React 單元測試，並有簡易功能之代辦事項清單 Side Project。
+
+  (詳細測試結果 & 畫面於連結內)
 
   使用技術：
-
+  
   * React
-  * 長列表效能優化
+  
   * Redux
-  * MiddleWare (API串接)
-  * React-Router
-  * Styled-Component
-  * RWD
-  * Node.js, MongoDB, Express
-
+  
+  * Jest 搭配 enzymy 進行 unit test
+  
+  * SCSS
+  
+    
 
 
 ### 在校作品
@@ -69,8 +96,5 @@
   * ASP.NET
   * socket.io
   * BootStrap
-
-
-
 
 
