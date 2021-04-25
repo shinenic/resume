@@ -8,6 +8,34 @@
 
 ### 前端 Side Project
 
+* 台中歌劇院導覽系統
+
+  https://ntt360.weacloud.org (for mobile)
+  
+  使用React整合VR軟體KRPano完成SPA網頁應用程式，並使用XState管理複雜的使用者流程，來建立順暢的使用體驗。
+  
+  
+* React-Krpano-Hooks (npm library)
+
+  Npm: https://www.npmjs.com/package/react-krpano-hooks
+  
+  Demo: https://shinenic.github.io/react-krpano-hooks/#/
+  
+  使用React hook整合VR軟體KRPano成獨立custom hooks，用以幫助React開發人員能快速串接KRPano並取得其API以及狀態資訊等等。
+  
+* 使用狀態機&React的獨立Component練習
+
+  - Picture Carousel with Drag & Pinch Actions(Mobile-First)
+
+    Demo: https://gp8p3.csb.app/
+    
+    實作可縮放以及拖曳的圖片幻燈片，並使用各個狀態來控制增進使用者體驗的細節
+  - Toast component
+
+    Demo: https://codesandbox.io/s/xstate-react-toast-with-counter-mnrzf
+    
+    使用狀態處理Toast從出現到消失以及暫停等等的各種狀態，再依狀態顯示不同的Style
+
 * **名字筆畫工具**
 
   [Demo](https://shinenic.github.io/strokes-operation-react/)  
