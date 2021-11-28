@@ -1,12 +1,28 @@
 # 履歷
 
-[PDF Link](https://github.com/shinenic/resume/blob/master/pdf/%E9%AD%8F%E6%81%A9%E5%BB%B7%20-%20resume.pdf)
+[PDF Link](https://www.cakeresume.com/pdf/s--mH-Su7dyh3fXhlHnWUDp2A--/aEdXW.pdf)
 
 
 
 # 作品集
 
 ### 前端 Side Project
+
+* A-Tree (Chrome extension for Github users)
+
+  Repo: https://github.com/shinenic/a-tree
+  
+  Chrome Extension: https://chrome.google.com/webstore/detail/a-tree-github-review-help/niogapfhnkbjmpnnobldcekclbgkbiah
+  
+  針對 Github (以及 Enterprise)使用者在瀏覽 Repositories 方便以及 Review Pull requests 下的使用情境，
+  製作 Tree view / file search / switch between commits/pulls 等快捷方便的 Extension 提供開發者使用
+  
+  使用技術
+  - React
+  - Material-UI
+  - React-window (Apply virtualization for large repositories and pull requests)
+  - React-query
+  - Webpack
 
 * 台中歌劇院導覽系統
 
@@ -74,37 +90,8 @@
 
     
 
-* 代辦事項清單
-
-  [Demo](https://shinenic.github.io/todo-list-for-test/ )  
-
-  [code & features & test result]( https://github.com/shinenic/todo-list-for-test )
-
-  主要為練習 React 單元測試，並有簡易功能之代辦事項清單 Side Project。
-
-  (詳細測試結果 & 畫面於連結內)
-
-  使用技術：
-  
-  * React
-  
-  * Redux
-  
-  * Jest 搭配 enzyme 進行 unit test
-  
-  * SCSS
-  
-    
-
 
 ### 在校作品
-
-* **神奇寶貝遊戲 (遊戲製作課程專題成果)**  
-
-  [Demo影片](https://youtu.be/V7TiLIM9UM0)
-
-  使用 JavaScript 的第三方遊戲框架，模擬神奇寶貝遊戲中的遊戲畫面之作品
-
 
 
 * **北科租物網 (畢業專題)** 
