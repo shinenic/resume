@@ -1,12 +1,10 @@
-# 履歷
+# Resume
 
 [PDF Link](https://www.cakeresume.com/pdf/s--mH-Su7dyh3fXhlHnWUDp2A--/aEdXW.pdf)
 
 
 
-# 作品集
-
-### 前端 Side Project
+# Side projects
 
 * A-Tree (Chrome extension for Github users)
 
